@@ -1,0 +1,11 @@
+{
+  "screenshotOnRunFailure": false,
+  "video": false,
+  
+  "env": {
+    "testUser": "chinnathambi.annamalai@teliacompany.com",
+    "testUserPassword": "Test@12345",
+    "csrTestUser": "devops_csr",
+    "csrTestUserPassword": "1111"
+  }
+}

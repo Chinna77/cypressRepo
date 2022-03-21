@@ -1,0 +1,11 @@
+{
+  "screenshotOnRunFailure": false,
+  "video": false,
+  "baseUrl": "https://www.preprod.telia.fi/",
+  "env": {
+    "testUser": "ulmtelia@gmail.com",
+    "testUserPassword": "Test@12345",
+    "csrTestUser": "devops_csr",
+    "csrTestUserPassword": "1111"
+  }
+}
